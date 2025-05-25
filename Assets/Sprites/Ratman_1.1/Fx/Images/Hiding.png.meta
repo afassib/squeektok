@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 641e26aa7efc28f46a2a4fc612f968d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3724612852304858056
+    second: Hiding_0
+  - first:
+      213: 3487237603953453352
+    second: Hiding_1
+  - first:
+      213: -6741830907729700363
+    second: Hiding_2
+  - first:
+      213: -5319626081717801986
+    second: Hiding_3
+  - first:
+      213: -7820247890700984832
+    second: Hiding_4
+  - first:
+      213: -8367189587910655633
+    second: Hiding_5
+  - first:
+      213: -7561299278986258351
+    second: Hiding_6
+  - first:
+      213: -21183104947268744
+    second: Hiding_7
+  - first:
+      213: -512732061888619503
+    second: Hiding_8
+  - first:
+      213: 530014040269519784
+    second: Hiding_9
+  - first:
+      213: -5789202996222172997
+    second: Hiding_10
+  - first:
+      213: 790427073362032532
+    second: Hiding_11
+  - first:
+      213: 7623758893619597487
+    second: Hiding_12
+  - first:
+      213: -6392413770635155418
+    second: Hiding_13
+  - first:
+      213: -3931982392050487505
+    second: Hiding_14
+  - first:
+      213: -993449874366557671
+    second: Hiding_15
+  - first:
+      213: -2220394202982909861
+    second: Hiding_16
+  - first:
+      213: 4831103837830527453
+    second: Hiding_17
+  - first:
+      213: 100207161299833343
+    second: Hiding_18
+  - first:
+      213: -8310007456137708557
+    second: Hiding_19
+  - first:
+      213: 8847948444691638366
+    second: Hiding_20
+  - first:
+      213: 6956154428295729892
+    second: Hiding_21
+  - first:
+      213: -6634167674645312004
+    second: Hiding_22
+  - first:
+      213: 6911241462380787377
+    second: Hiding_23
+  - first:
+      213: -39191047368450133
+    second: Hiding_24
+  - first:
+      213: 5568914281157601830
+    second: Hiding_25
+  - first:
+      213: -7609817824999740374
+    second: Hiding_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hiding_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4c73c7ab70b330800000000000000
+      internalID: 3724612852304858056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a707ef18256030800000000000000
+      internalID: 3487237603953453352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9950952843072a0800000000000000
+      internalID: -6741830907729700363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 17
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbae456344ec26b0800000000000000
+      internalID: -5319626081717801986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e15431af5e87390800000000000000
+      internalID: -7820247890700984832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f610d3ca665c1eb80800000000000000
+      internalID: -8367189587910655633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 20
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1585b930e5ed01790800000000000000
+      internalID: -7561299278986258351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873d06a041eb4bff0800000000000000
+      internalID: -21183104947268744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cdc2208e862e8f0800000000000000
+      internalID: -512732061888619503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfb3426fcfa5700800000000000000
+      internalID: 530014040269519784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ec852c8e98afa0800000000000000
+      internalID: -5789202996222172997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49778904c3928fa00800000000000000
+      internalID: 790427073362032532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0db6342580dc960800000000000000
+      internalID: 7623758893619597487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e9f74b859947a0800000000000000
+      internalID: -6392413770635155418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 6
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f6db2d8dace69c0800000000000000
+      internalID: -3931982392050487505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91299305a9e8632f0800000000000000
+      internalID: -993449874366557671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58fddd8c339f21e0800000000000000
+      internalID: -2220394202982909861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd93aee18578b0340800000000000000
+      internalID: 4831103837830527453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff11a3dd1e1046100800000000000000
+      internalID: 100207161299833343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb70183f3cecac80800000000000000
+      internalID: -8310007456137708557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a0d46b3a3aca70800000000000000
+      internalID: 8847948444691638366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d355e899398060800000000000000
+      internalID: 6956154428295729892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd036436a3bee3a0800000000000000
+      internalID: -6634167674645312004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b678222e79a9ef50800000000000000
+      internalID: 6911241462380787377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf5a3733f3c47ff0800000000000000
+      internalID: -39191047368450133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aaff88802c84d40800000000000000
+      internalID: 5568914281157601830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hiding_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6477b10f746690800000000000000
+      internalID: -7609817824999740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hiding_0: 3724612852304858056
+      Hiding_1: 3487237603953453352
+      Hiding_10: -5789202996222172997
+      Hiding_11: 790427073362032532
+      Hiding_12: 7623758893619597487
+      Hiding_13: -6392413770635155418
+      Hiding_14: -3931982392050487505
+      Hiding_15: -993449874366557671
+      Hiding_16: -2220394202982909861
+      Hiding_17: 4831103837830527453
+      Hiding_18: 100207161299833343
+      Hiding_19: -8310007456137708557
+      Hiding_2: -6741830907729700363
+      Hiding_20: 8847948444691638366
+      Hiding_21: 6956154428295729892
+      Hiding_22: -6634167674645312004
+      Hiding_23: 6911241462380787377
+      Hiding_24: -39191047368450133
+      Hiding_25: 5568914281157601830
+      Hiding_26: -7609817824999740374
+      Hiding_3: -5319626081717801986
+      Hiding_4: -7820247890700984832
+      Hiding_5: -8367189587910655633
+      Hiding_6: -7561299278986258351
+      Hiding_7: -21183104947268744
+      Hiding_8: -512732061888619503
+      Hiding_9: 530014040269519784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: a5c2b9aad0759984da4d31b64af801f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5227727644980510543
+    second: Ratman_NonWeapon_Death2_0
+  - first:
+      213: 4425335288220476528
+    second: Ratman_NonWeapon_Death2_1
+  - first:
+      213: 1153136823332885626
+    second: Ratman_NonWeapon_Death2_2
+  - first:
+      213: -6297842786365495113
+    second: Ratman_NonWeapon_Death2_3
+  - first:
+      213: -3311420581188134002
+    second: Ratman_NonWeapon_Death2_4
+  - first:
+      213: -8419556557301045512
+    second: Ratman_NonWeapon_Death2_5
+  - first:
+      213: -1392962508161185002
+    second: Ratman_NonWeapon_Death2_6
+  - first:
+      213: 2531588069515568246
+    second: Ratman_NonWeapon_Death2_7
+  - first:
+      213: -6027698030065992224
+    second: Ratman_NonWeapon_Death2_8
+  - first:
+      213: -2407017250391838827
+    second: Ratman_NonWeapon_Death2_9
+  - first:
+      213: -6855675284101913174
+    second: Ratman_NonWeapon_Death2_10
+  - first:
+      213: 7828450560917374239
+    second: Ratman_NonWeapon_Death2_11
+  - first:
+      213: -2058511285828601367
+    second: Ratman_NonWeapon_Death2_12
+  - first:
+      213: -339497339646006535
+    second: Ratman_NonWeapon_Death2_13
+  - first:
+      213: -9048786960465798733
+    second: Ratman_NonWeapon_Death2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0827297616377b0800000000000000
+      internalID: -5227727644980510543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074e16a8ff2f96d30800000000000000
+      internalID: 4425335288220476528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 10
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74dd2cc4d3c00010800000000000000
+      internalID: 1153136823332885626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ad6b6a519998a0800000000000000
+      internalID: -6297842786365495113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1d5ca6887b02d0800000000000000
+      internalID: -3311420581188134002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a2cb7be9b72b80800000000000000
+      internalID: -8419556557301045512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 37
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b8d93aaf33bace0800000000000000
+      internalID: -1392962508161185002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a711bfe1022320800000000000000
+      internalID: 2531588069515568246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3898e390595ca0800000000000000
+      internalID: -6027698030065992224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 15
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f282e409e889ed0800000000000000
+      internalID: -2407017250391838827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52eabe6afbbd0a0800000000000000
+      internalID: -6855675284101913174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f150039ee4e34ac60800000000000000
+      internalID: 7828450560917374239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bd0a54e2be63e0800000000000000
+      internalID: -2058511285828601367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa534e7fcd94bf0800000000000000
+      internalID: -339497339646006535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Death2_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9df35b3304c6280800000000000000
+      internalID: -9048786960465798733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ratman_NonWeapon_Death2_0: -5227727644980510543
+      Ratman_NonWeapon_Death2_1: 4425335288220476528
+      Ratman_NonWeapon_Death2_10: -6855675284101913174
+      Ratman_NonWeapon_Death2_11: 7828450560917374239
+      Ratman_NonWeapon_Death2_12: -2058511285828601367
+      Ratman_NonWeapon_Death2_13: -339497339646006535
+      Ratman_NonWeapon_Death2_14: -9048786960465798733
+      Ratman_NonWeapon_Death2_2: 1153136823332885626
+      Ratman_NonWeapon_Death2_3: -6297842786365495113
+      Ratman_NonWeapon_Death2_4: -3311420581188134002
+      Ratman_NonWeapon_Death2_5: -8419556557301045512
+      Ratman_NonWeapon_Death2_6: -1392962508161185002
+      Ratman_NonWeapon_Death2_7: 2531588069515568246
+      Ratman_NonWeapon_Death2_8: -6027698030065992224
+      Ratman_NonWeapon_Death2_9: -2407017250391838827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

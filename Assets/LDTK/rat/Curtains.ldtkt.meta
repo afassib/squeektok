@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 89cfee35fa94278448c4c4d1f05303d1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Curtains_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 108
+      height: 108
+    spriteID: b05f9bd66500c044e813a3b4c5b55aa7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 0
+      width: 108
+      height: 108
+    spriteID: 3cb175f3f18ac7f48b79f225601ef23f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 0
+      width: 108
+      height: 108
+    spriteID: d384d458a7956524bb44bbbedd2f79d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 0
+      width: 108
+      height: 108
+    spriteID: 62142d4466369b746b0ba253dd1c8d0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 432
+      y: 0
+      width: 108
+      height: 108
+    spriteID: 0bd06c589bc10804b8142ae804682c85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 540
+      y: 0
+      width: 108
+      height: 108
+    spriteID: 75ea9956fdcf4b74594ebf6efc4b1439
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 0
+      width: 108
+      height: 108
+    spriteID: 207294324d1293b4fb781c1ffabcd26e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Curtains_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 756
+      y: 0
+      width: 108
+      height: 108
+    spriteID: fb560aadc975e5f4eaa6ae3d2cb0e0fa
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 1,
+    "__cWid": 8,
+    "cachedPixelData": {
+      "opaqueTiles": "00000000",
+      "averageColors": "85328245000000000000000000000000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Fire_Light_57x57",
+    "padding": 0,
+    "pxHei": 57,
+    "pxWid": 456,
+    "relPath": "Medieval_Castle_Asset_Pack/deco/merged_tileset_57x57.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 57,
+    "uid": 136
+  }
+}

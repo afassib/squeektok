@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 2,
+    "__cWid": 8,
+    "cachedPixelData": {
+      "opaqueTiles": "0000000000000000",
+      "averageColors": "2a832a842a842a842b842a83239b238b238b239c239c239b0000000000000000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Fire1_42",
+    "padding": 0,
+    "pxHei": 84,
+    "pxWid": 336,
+    "relPath": "Medieval_Castle_Asset_Pack/deco/merged_tileset_42x42.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 42,
+    "uid": 128
+  }
+}

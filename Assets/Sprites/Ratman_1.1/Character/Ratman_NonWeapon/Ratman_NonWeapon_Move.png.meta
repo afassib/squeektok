@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 8f4c2c4e0e71b4f47810877e791d733b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1727610758706519413
+    second: Ratman_NonWeapon_Move_0
+  - first:
+      213: 1688772617593758320
+    second: Ratman_NonWeapon_Move_1
+  - first:
+      213: 5930081551197167946
+    second: Ratman_NonWeapon_Move_2
+  - first:
+      213: 139801924526992885
+    second: Ratman_NonWeapon_Move_3
+  - first:
+      213: 4188080802849591550
+    second: Ratman_NonWeapon_Move_4
+  - first:
+      213: -6602143331596047236
+    second: Ratman_NonWeapon_Move_5
+  - first:
+      213: -2532103628157761753
+    second: Ratman_NonWeapon_Move_6
+  - first:
+      213: -2992379439799572796
+    second: Ratman_NonWeapon_Move_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -6, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: 11}
+        - {x: -6, y: 9}
+        - {x: -12, y: 9}
+        - {x: -16, y: 7}
+        - {x: -16, y: 5}
+        - {x: -14, y: 3}
+        - {x: -12, y: 3}
+        - {x: -10, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: 3}
+        - {x: -10, y: -2}
+        - {x: -11, y: -4}
+        - {x: -13, y: -3}
+        - {x: -14, y: -2}
+        - {x: -17, y: -2}
+        - {x: -18, y: -4}
+        - {x: -18, y: -9}
+        - {x: -17, y: -10}
+        - {x: -15, y: -10}
+        - {x: -14, y: -7}
+        - {x: -12, y: -8}
+        - {x: 0, y: -8}
+        - {x: 0, y: -11}
+        - {x: 2, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -9}
+        - {x: 7, y: -6}
+        - {x: 2, y: -6}
+        - {x: 1, y: -3}
+        - {x: 0, y: -1}
+        - {x: 1, y: 1}
+        - {x: 2, y: 2}
+        - {x: 3, y: 0}
+        - {x: 5, y: -2}
+        - {x: 8, y: -2}
+        - {x: 9, y: -1}
+        - {x: 9, y: 1}
+        - {x: 4, y: 5}
+        - {x: 3, y: 6}
+        - {x: 4, y: 6}
+        - {x: 5, y: 7}
+        - {x: 5, y: 9}
+        - {x: 2, y: 11}
+        - {x: 2, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d58dee4d4b9f710800000000000000
+      internalID: 1727610758706519413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -8, y: 9}
+        - {x: -6, y: 6}
+        - {x: -10, y: 5}
+        - {x: -15, y: 0}
+        - {x: -12, y: -2}
+        - {x: -8, y: 0}
+        - {x: -9, y: -4}
+        - {x: -11, y: -8}
+        - {x: -16, y: -9}
+        - {x: -15, y: -11}
+        - {x: -13, y: -13}
+        - {x: -11, y: -10}
+        - {x: -7, y: -10}
+        - {x: -5, y: -8}
+        - {x: -1, y: -9}
+        - {x: -1, y: -13}
+        - {x: 6, y: -14}
+        - {x: 2, y: -11}
+        - {x: 1, y: -7}
+        - {x: 3, y: -6}
+        - {x: 6, y: -6}
+        - {x: 4, y: 0}
+        - {x: 3, y: 4}
+        - {x: 5, y: 6}
+        - {x: 5, y: 8}
+        - {x: 2, y: 10}
+        - {x: 2, y: 13}
+        - {x: 0, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072251a8fb9bf6710800000000000000
+      internalID: 1688772617593758320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -6, y: 7}
+        - {x: -4, y: 4}
+        - {x: -7, y: 3}
+        - {x: -11, y: 1}
+        - {x: -12, y: -2}
+        - {x: -10, y: -4}
+        - {x: -8, y: -5}
+        - {x: -8, y: -10}
+        - {x: -10, y: -12}
+        - {x: -10, y: -14}
+        - {x: 1, y: -14}
+        - {x: 0, y: -11}
+        - {x: 2, y: -10}
+        - {x: 2, y: -7}
+        - {x: 3, y: -4}
+        - {x: 1, y: -3}
+        - {x: 2, y: 1}
+        - {x: 6, y: 4}
+        - {x: 3, y: 7}
+        - {x: 1, y: 11}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41643c70c1eb4250800000000000000
+      internalID: 5930081551197167946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 7, y: 7}
+        - {x: 4, y: 8}
+        - {x: 2, y: 14}
+        - {x: -4, y: 14}
+        - {x: -6, y: 13}
+        - {x: -3, y: 6}
+        - {x: -5, y: 4}
+        - {x: -7, y: 1}
+        - {x: -7, y: -5}
+        - {x: -8, y: -10}
+        - {x: -12, y: -11}
+        - {x: -11, y: -15}
+        - {x: -6, y: -15}
+        - {x: -6, y: -11}
+        - {x: -4, y: -9}
+        - {x: -2, y: -13}
+        - {x: -1, y: -15}
+        - {x: 2, y: -14}
+        - {x: 1, y: -11}
+        - {x: 4, y: -8}
+        - {x: 0, y: -1}
+        - {x: 1, y: 5}
+        - {x: 7, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde8521c1da0f100800000000000000
+      internalID: 139801924526992885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -3, y: 14}
+        - {x: -5, y: 12}
+        - {x: -2, y: 9}
+        - {x: -3, y: 8}
+        - {x: -6, y: 9}
+        - {x: -13, y: 7}
+        - {x: -13, y: 4}
+        - {x: -10, y: 4}
+        - {x: -7, y: 6}
+        - {x: -8, y: -3}
+        - {x: -12, y: -5}
+        - {x: -15, y: -5}
+        - {x: -18, y: -3}
+        - {x: -18, y: -10}
+        - {x: -15, y: -8}
+        - {x: -6, y: -9}
+        - {x: -5, y: -6}
+        - {x: 2, y: -7}
+        - {x: 5, y: -12}
+        - {x: 9, y: -7}
+        - {x: 6, y: -6}
+        - {x: 4, y: -6}
+        - {x: -1, y: -2}
+        - {x: 0, y: 1}
+        - {x: 7, y: 0}
+        - {x: 9, y: 2}
+        - {x: 6, y: 6}
+        - {x: 7, y: 8}
+        - {x: 1, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09b700d4d0f1a30800000000000000
+      internalID: 4188080802849591550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -5, y: 12}
+        - {x: -4, y: 9}
+        - {x: -2, y: 6}
+        - {x: -6, y: 5}
+        - {x: -11, y: 3}
+        - {x: -12, y: 0}
+        - {x: -8, y: -1}
+        - {x: -9, y: -5}
+        - {x: -11, y: -8}
+        - {x: -16, y: -7}
+        - {x: -17, y: -9}
+        - {x: -17, y: -13}
+        - {x: -13, y: -10}
+        - {x: -10, y: -11}
+        - {x: -3, y: -8}
+        - {x: 1, y: -9}
+        - {x: 1, y: -14}
+        - {x: 7, y: -14}
+        - {x: 4, y: -11}
+        - {x: 4, y: -7}
+        - {x: 6, y: -6}
+        - {x: 7, y: -3}
+        - {x: 3, y: -2}
+        - {x: 2, y: 3}
+        - {x: 6, y: 4}
+        - {x: 7, y: 8}
+        - {x: 4, y: 9}
+        - {x: 2, y: 13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce00c9e997064a0800000000000000
+      internalID: -6602143331596047236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -4, y: 4}
+        - {x: -10, y: -1}
+        - {x: -8, y: -5}
+        - {x: -9, y: -10}
+        - {x: -11, y: -14}
+        - {x: 1, y: -14}
+        - {x: 2, y: -6}
+        - {x: 0, y: 1}
+        - {x: 6, y: 3}
+        - {x: 3, y: 7}
+        - {x: -2, y: 11}
+        - {x: -6, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cd257a292cdcd0800000000000000
+      internalID: -2532103628157761753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Move_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 1, y: 13}
+        - {x: -2, y: 15}
+        - {x: -6, y: 12}
+        - {x: -3, y: 5}
+        - {x: -7, y: 4}
+        - {x: -10, y: -1}
+        - {x: -7, y: -3}
+        - {x: -7, y: -10}
+        - {x: -10, y: -11}
+        - {x: -9, y: -14}
+        - {x: -1, y: -14}
+        - {x: -2, y: -10}
+        - {x: 2, y: -8}
+        - {x: 1, y: 0}
+        - {x: 5, y: 7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c66099f0cee876d0800000000000000
+      internalID: -2992379439799572796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b3e92ada041816479551027e0a72dc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: a8e455ccaeb34024686f3a604e6bd3c5, type: 3}
+      name: _NormalMap
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ratman_NonWeapon_Move_0: 1727610758706519413
+      Ratman_NonWeapon_Move_1: 1688772617593758320
+      Ratman_NonWeapon_Move_2: 5930081551197167946
+      Ratman_NonWeapon_Move_3: 139801924526992885
+      Ratman_NonWeapon_Move_4: 4188080802849591550
+      Ratman_NonWeapon_Move_5: -6602143331596047236
+      Ratman_NonWeapon_Move_6: -2532103628157761753
+      Ratman_NonWeapon_Move_7: -2992379439799572796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
