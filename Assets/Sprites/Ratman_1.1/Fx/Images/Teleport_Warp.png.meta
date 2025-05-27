@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: f59ec3361430df746969ce15b9990649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6776130513534474648
+    second: Teleport_Warp_0
+  - first:
+      213: -404907863069868919
+    second: Teleport_Warp_1
+  - first:
+      213: 3839287259078231674
+    second: Teleport_Warp_2
+  - first:
+      213: 1828549683954084485
+    second: Teleport_Warp_3
+  - first:
+      213: 7327086532330980887
+    second: Teleport_Warp_4
+  - first:
+      213: -2757886659074791087
+    second: Teleport_Warp_5
+  - first:
+      213: -8203198254552319211
+    second: Teleport_Warp_6
+  - first:
+      213: -5845479219923810256
+    second: Teleport_Warp_7
+  - first:
+      213: 8566769878700177286
+    second: Teleport_Warp_8
+  - first:
+      213: 6284206905492672064
+    second: Teleport_Warp_9
+  - first:
+      213: -5805167222363225423
+    second: Teleport_Warp_10
+  - first:
+      213: 5330359577900471816
+    second: Teleport_Warp_11
+  - first:
+      213: -1961402034470484339
+    second: Teleport_Warp_12
+  - first:
+      213: 3213977138583186583
+    second: Teleport_Warp_13
+  - first:
+      213: -3103997788329852358
+    second: Teleport_Warp_14
+  - first:
+      213: -7431611803171160581
+    second: Teleport_Warp_15
+  - first:
+      213: 5502121180417692462
+    second: Teleport_Warp_16
+  - first:
+      213: -7344185556097288082
+    second: Teleport_Warp_17
+  - first:
+      213: 8698610036281071570
+    second: Teleport_Warp_18
+  - first:
+      213: -7021095982753263124
+    second: Teleport_Warp_19
+  - first:
+      213: -9146565957632864148
+    second: Teleport_Warp_20
+  - first:
+      213: -5702835126544591795
+    second: Teleport_Warp_21
+  - first:
+      213: -4002302092088493680
+    second: Teleport_Warp_22
+  - first:
+      213: -8245014400370136789
+    second: Teleport_Warp_23
+  - first:
+      213: -5296123610875838244
+    second: Teleport_Warp_24
+  - first:
+      213: 1434249723648768643
+    second: Teleport_Warp_25
+  - first:
+      213: 5393342495555248272
+    second: Teleport_Warp_26
+  - first:
+      213: -6164454254488551013
+    second: Teleport_Warp_27
+  - first:
+      213: 4972007076657612708
+    second: Teleport_Warp_28
+  - first:
+      213: 578051481022261372
+    second: Teleport_Warp_29
+  - first:
+      213: -2035922570205481863
+    second: Teleport_Warp_30
+  - first:
+      213: 2440057301764537399
+    second: Teleport_Warp_31
+  - first:
+      213: -9062220734128211342
+    second: Teleport_Warp_32
+  - first:
+      213: -6163473910462651585
+    second: Teleport_Warp_33
+  - first:
+      213: 4872687479511534340
+    second: Teleport_Warp_34
+  - first:
+      213: 5179471051146311591
+    second: Teleport_Warp_35
+  - first:
+      213: 4252384541969344351
+    second: Teleport_Warp_36
+  - first:
+      213: 5915008142085388562
+    second: Teleport_Warp_37
+  - first:
+      213: -6524394184889986563
+    second: Teleport_Warp_38
+  - first:
+      213: -2225940032817881901
+    second: Teleport_Warp_39
+  - first:
+      213: 1206590338876105707
+    second: Teleport_Warp_40
+  - first:
+      213: 6462580719306326938
+    second: Teleport_Warp_41
+  - first:
+      213: -141646103761277869
+    second: Teleport_Warp_42
+  - first:
+      213: -1430974186697790839
+    second: Teleport_Warp_43
+  - first:
+      213: -6960067502061028115
+    second: Teleport_Warp_44
+  - first:
+      213: 6739971959875997228
+    second: Teleport_Warp_45
+  - first:
+      213: 4213631817556357201
+    second: Teleport_Warp_46
+  - first:
+      213: 6396688028158716895
+    second: Teleport_Warp_47
+  - first:
+      213: -3849750456732703524
+    second: Teleport_Warp_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teleport_Warp_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89958e2fcc6a90e50800000000000000
+      internalID: 6776130513534474648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 20
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c35fe917a716af0800000000000000
+      internalID: -404907863069868919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a768a04bb63e74530800000000000000
+      internalID: 3839287259078231674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6c3edf30506910800000000000000
+      internalID: 1828549683954084485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 25
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716032e616a0fa560800000000000000
+      internalID: 7327086532330980887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 14
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ee0b02b40ab9d0800000000000000
+      internalID: -2757886659074791087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 28
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfd4f56a2682e80800000000000000
+      internalID: -8203198254552319211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0388382ce9fa0eea0800000000000000
+      internalID: -5845479219923810256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b074e0d743e670800000000000000
+      internalID: 8566769878700177286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 12
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e82f8a2ecf53750800000000000000
+      internalID: 6284206905492672064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28c491b27ef6fa0800000000000000
+      internalID: -5805167222363225423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 30
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806dbdd6bcd39f940800000000000000
+      internalID: 5330359577900471816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 34
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8688a9dd33b7c4e0800000000000000
+      internalID: -1961402034470484339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_13
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c2a7ddd275a9c20800000000000000
+      internalID: 3213977138583186583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 28
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32400b05726ce4d0800000000000000
+      internalID: -3103997788329852358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 8
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdf16b707c9dd890800000000000000
+      internalID: -7431611803171160581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_16
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2313f5ef067b5c40800000000000000
+      internalID: 5502121180417692462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 13
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68344cd526341a90800000000000000
+      internalID: -7344185556097288082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75e24adbba7b870800000000000000
+      internalID: 8698610036281071570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_19
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1d11e276e009e90800000000000000
+      internalID: -7021095982753263124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_20
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 7
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60dc9cd8bed01180800000000000000
+      internalID: -9146565957632864148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_21
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 14
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4490b5daa57bd0b0800000000000000
+      internalID: -5702835126544591795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099334dc377f478c0800000000000000
+      internalID: -4002302092088493680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2925f93613d39d80800000000000000
+      internalID: -8245014400370136789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0cf2fc2a36086b0800000000000000
+      internalID: -5296123610875838244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a7941568a77e310800000000000000
+      internalID: 1434249723648768643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 28
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e69fac6009da40800000000000000
+      internalID: 5393342495555248272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 27
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9180172485737aa0800000000000000
+      internalID: -6164454254488551013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c7e8e71e100540800000000000000
+      internalID: 4972007076657612708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78683462c6a50800800000000000000
+      internalID: 578051481022261372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b3bc8533feb3e0800000000000000
+      internalID: -2035922570205481863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 25
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cf54f1033dcd120800000000000000
+      internalID: 2440057301764537399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 11
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27abb1a81468c3280800000000000000
+      internalID: -9062220734128211342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 19
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f336c784221f67aa0800000000000000
+      internalID: -6163473910462651585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b47cd22734f9340800000000000000
+      internalID: 4872687479511534340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7beff9a7d21e740800000000000000
+      internalID: 5179471051146311591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e178f531830b30800000000000000
+      internalID: 4252384541969344351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219fa80f094561250800000000000000
+      internalID: 5915008142085388562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 14
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1120b7e02b475a0800000000000000
+      internalID: -6524394184889986563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc919c655fdb11e0800000000000000
+      internalID: -2225940032817881901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e02a358baeb010800000000000000
+      internalID: 1206590338876105707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_41
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 12
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ca8a8ce2bfa950800000000000000
+      internalID: 6462580719306326938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cad7d7e95c80ef0800000000000000
+      internalID: -141646103761277869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aef1f0f88242ce0800000000000000
+      internalID: -1430974186697790839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec79ee9b7fd86f90800000000000000
+      internalID: -6960067502061028115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e8080a9c0398d50800000000000000
+      internalID: 6739971959875997228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fab330d3d97a30800000000000000
+      internalID: 4213631817556357201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_47
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe469ded995c850800000000000000
+      internalID: 6396688028158716895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teleport_Warp_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 7
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ac804b50f29ac0800000000000000
+      internalID: -3849750456732703524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Teleport_Warp_0: 6776130513534474648
+      Teleport_Warp_1: -404907863069868919
+      Teleport_Warp_10: -5805167222363225423
+      Teleport_Warp_11: 5330359577900471816
+      Teleport_Warp_12: -1961402034470484339
+      Teleport_Warp_13: 3213977138583186583
+      Teleport_Warp_14: -3103997788329852358
+      Teleport_Warp_15: -7431611803171160581
+      Teleport_Warp_16: 5502121180417692462
+      Teleport_Warp_17: -7344185556097288082
+      Teleport_Warp_18: 8698610036281071570
+      Teleport_Warp_19: -7021095982753263124
+      Teleport_Warp_2: 3839287259078231674
+      Teleport_Warp_20: -9146565957632864148
+      Teleport_Warp_21: -5702835126544591795
+      Teleport_Warp_22: -4002302092088493680
+      Teleport_Warp_23: -8245014400370136789
+      Teleport_Warp_24: -5296123610875838244
+      Teleport_Warp_25: 1434249723648768643
+      Teleport_Warp_26: 5393342495555248272
+      Teleport_Warp_27: -6164454254488551013
+      Teleport_Warp_28: 4972007076657612708
+      Teleport_Warp_29: 578051481022261372
+      Teleport_Warp_3: 1828549683954084485
+      Teleport_Warp_30: -2035922570205481863
+      Teleport_Warp_31: 2440057301764537399
+      Teleport_Warp_32: -9062220734128211342
+      Teleport_Warp_33: -6163473910462651585
+      Teleport_Warp_34: 4872687479511534340
+      Teleport_Warp_35: 5179471051146311591
+      Teleport_Warp_36: 4252384541969344351
+      Teleport_Warp_37: 5915008142085388562
+      Teleport_Warp_38: -6524394184889986563
+      Teleport_Warp_39: -2225940032817881901
+      Teleport_Warp_4: 7327086532330980887
+      Teleport_Warp_40: 1206590338876105707
+      Teleport_Warp_41: 6462580719306326938
+      Teleport_Warp_42: -141646103761277869
+      Teleport_Warp_43: -1430974186697790839
+      Teleport_Warp_44: -6960067502061028115
+      Teleport_Warp_45: 6739971959875997228
+      Teleport_Warp_46: 4213631817556357201
+      Teleport_Warp_47: 6396688028158716895
+      Teleport_Warp_48: -3849750456732703524
+      Teleport_Warp_5: -2757886659074791087
+      Teleport_Warp_6: -8203198254552319211
+      Teleport_Warp_7: -5845479219923810256
+      Teleport_Warp_8: 8566769878700177286
+      Teleport_Warp_9: 6284206905492672064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

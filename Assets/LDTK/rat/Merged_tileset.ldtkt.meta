@@ -1,0 +1,2508 @@
+fileFormatVersion: 2
+guid: b9f7294e8d3541647a8a195fdd66b998
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Merged_tileset_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 92a72d6f6bc19044bb1d26af8a64fce5
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 8, y: -16}
+      - {x: 16, y: -6}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 608
+      width: 32
+      height: 32
+    spriteID: cf5d397e5b8f6694db6773c35631861c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 0412b13dc10b13d4c8efe9086006b101
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 76877d040c88ad7459542c91c3adea38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 63384dd45855d05448615eb000a6ae7d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 81d076874db51ae448a5b362a5a21ef0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 19316968982ccfc45ae99cd835b39be9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 608
+      width: 32
+      height: 32
+    spriteID: 48a2573b1c58b034ea814bced08c8790
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 576
+      width: 32
+      height: 32
+    spriteID: ca7aec69aa5cb5f418e9ae5aae797b49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 576
+      width: 32
+      height: 32
+    spriteID: eebfa1e0d4f1290429c1de1b75c8757f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 576
+      width: 32
+      height: 32
+    spriteID: 21841e501fd8c334c900ff978108ca46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 576
+      width: 32
+      height: 32
+    spriteID: 5a8324a935bb5b84da7b174315f93967
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 576
+      width: 32
+      height: 32
+    spriteID: 1857918d09a948a4fa75f5f8998a9733
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 576
+      width: 32
+      height: 32
+    spriteID: b42d9933d86ce524794be05057afb111
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 576
+      width: 32
+      height: 32
+    spriteID: b1b2bb29c52be7d498d1262815e04f15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 576
+      width: 32
+      height: 32
+    spriteID: 68ec26e33bff6bb469f9d30c6228b10c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 544
+      width: 32
+      height: 32
+    spriteID: 1392b850953453e4e8847d398369f9af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 544
+      width: 32
+      height: 32
+    spriteID: 06fdc5f60289fba40a5eee62c3109488
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 544
+      width: 32
+      height: 32
+    spriteID: b7a5154f6453d35498498955d5088568
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 544
+      width: 32
+      height: 32
+    spriteID: a1dbf0f5d2d5c3a49af6c95c3bac54cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 544
+      width: 32
+      height: 32
+    spriteID: f021f3fcbc7974748b98d76697c6ca88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 544
+      width: 32
+      height: 32
+    spriteID: 87d2101d76b015b46b8205a3e896a9ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 544
+      width: 32
+      height: 32
+    spriteID: 97d42bf02e87ffb4f81f6d2cfcbfcf2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 544
+      width: 32
+      height: 32
+    spriteID: 0729840ded51c6c43a86cac4eaac348b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 512
+      width: 32
+      height: 32
+    spriteID: 71ac8068d3257684ea15c3b54c10522f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 512
+      width: 32
+      height: 32
+    spriteID: 5c4135f6c0cf78148b65e1390aa5359f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 512
+      width: 32
+      height: 32
+    spriteID: f0a9b1fb768d99e4f8455f3a8eacc361
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 512
+      width: 32
+      height: 32
+    spriteID: 854a81fcbb4632b46aec1b49c2969012
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 512
+      width: 32
+      height: 32
+    spriteID: 67b2c12d05cfa2f41a030a8c20170509
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 512
+      width: 32
+      height: 32
+    spriteID: e2e9024a66497224c93b6087b039a70a
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 512
+      width: 32
+      height: 32
+    spriteID: 0d99d03abdedfe443b050ebd1112eb96
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 512
+      width: 32
+      height: 32
+    spriteID: 8184124a8f3882b47bc19ca60466f17a
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 42d0cafa7c4406144a6d2f1b6667dd40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 480
+      width: 32
+      height: 32
+    spriteID: e52a1ad2c853e6b46b0417799d2f07a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 65ae1730bd60a6f44a4fd5f257ccd114
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -14}
+      - {x: -15, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 04342b9ca8510d14498af6b7ea92959d
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 15, y: -16}
+      - {x: 16, y: -14}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 255432dabb10f214288552753b7b7354
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 821e1f51723677f4bab3431b759d10d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 6718ff1e7dcc9e74a985f75f7590ad74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 480
+      width: 32
+      height: 32
+    spriteID: 907c196abffb46e42a804af48c5dfde9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 08e4d2670675eb84590929842b9e4a96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 448
+      width: 32
+      height: 32
+    spriteID: f37200d2c956a124585150f1a978d710
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 448
+      width: 32
+      height: 32
+    spriteID: c27ec457eb3b0e240a2e321c511c6522
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 448
+      width: 32
+      height: 32
+    spriteID: c5adf1e637c8af147804b455fb3f973e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 2399cab5f618d8a4a97cfa6c4e47c3cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 41eee98264159ca4a830b321af2e368a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 3f1a3a3b63ad6cc47ad9749ff95a48a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 0fbe01863af175b47983726ef93db5b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 416
+      width: 32
+      height: 32
+    spriteID: bfbeea37f66310f4bb22b4d0b8bfd017
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 13}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 13}
+    tessellationDetail: 0
+  - name: Merged_tileset_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 6a2e9a816b6d63447a69f665cbc34557
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 13}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 13}
+    tessellationDetail: 0
+  - name: Merged_tileset_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 2a7e14afe577e3e469a758c0ce975266
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 13}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 13}
+    tessellationDetail: 0
+  - name: Merged_tileset_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 416
+      width: 32
+      height: 32
+    spriteID: d7a2483f80254824194aa91bcdf81402
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 13}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 13}
+    tessellationDetail: 0
+  - name: Merged_tileset_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 416
+      width: 32
+      height: 32
+    spriteID: c25f5e1528028b34d984e82ac28cc0d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 4742a05079512b141b67e5b697d96e87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 12c4fcda4a8ae4341940c7212e23f7b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 416
+      width: 32
+      height: 32
+    spriteID: dab6158bfb64e374ab866743d6b5e1e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 0cffaba1f081e82459a416eb9b527047
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 384
+      width: 32
+      height: 32
+    spriteID: d4c34c774beff8d4682051b13e238855
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 89cb87c0bd656c6429eaa12f2cbd16ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 7be540958e73cd74492e0e1550493971
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 6c7acae2861b1a54597dc8b4cd025aff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 3cf59e741206e1b4fa28bf16ca14cb25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 384
+      width: 32
+      height: 32
+    spriteID: e8f318a68a5e8c446a2a164c51767949
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 384
+      width: 32
+      height: 32
+    spriteID: a78fe4fa680affd4ab19329a00194d36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 931556de3301b114c81b0835634c47fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 8d6a4a63382f6894a95eb6a32a1250bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 85167555e32564944b00b3ee9d4c7ae3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 172453c965815e7438e878fc3b63f568
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 94bf9b956bb652f4b954cdfe567da8cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 8f14e07ca3cb6174889a9c883732bf3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 352
+      width: 32
+      height: 32
+    spriteID: baa01694e0632754f83207b081d1dafb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 9137cee72608d7f49ba80189f9a501f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 53a55ba466be69249b6e52e684a78e56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 320
+      width: 32
+      height: 32
+    spriteID: e2318e5e8f9bcf6419ed86a3a9dea203
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 320
+      width: 32
+      height: 32
+    spriteID: c6eda52e357015445bb48a1c88c08633
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 320
+      width: 32
+      height: 32
+    spriteID: ec3fde50615debf4db5f760695929a65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 320
+      width: 32
+      height: 32
+    spriteID: f192316b1d450c04abb327a2e6d24c38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 633188792de6efc499d2c095ffb4836a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 320
+      width: 32
+      height: 32
+    spriteID: e3622a6fbb5857e4e9d735b08279fb69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 320
+      width: 32
+      height: 32
+    spriteID: a0016302ee353f34a9b709534307c027
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 288
+      width: 32
+      height: 32
+    spriteID: c963e9e1773a26a4db58191d876f1272
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 288
+      width: 32
+      height: 32
+    spriteID: f31c6c584b1394f4eaf405b594c01e6c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 13a4281133a16e448b2bc3f1bd3cc64e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 96ae89ff1e451b342891be58e1e3af25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 288
+      width: 32
+      height: 32
+    spriteID: f51ce81cdbcd32b468df6fd4bebb3ee9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 7d2eec9220f044f4f91dbb695752d4da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 288
+      width: 32
+      height: 32
+    spriteID: ecf9977fe1deb1149afc801ac3a6e511
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 64fa75f12b7709948aff6d6fa64e8f7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 2a0858d633a621c4caad1a3ab3742540
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 256
+      width: 32
+      height: 32
+    spriteID: c19a416581dcb814d952f1ef9990f6e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 11a807acdbd2274458559dac6ac62989
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 3c86ba06ce0d679448c8262e4b4fb956
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 2e547a20c87ff0a4689909d06d44c58f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 256
+      width: 32
+      height: 32
+    spriteID: a9bb0e94f09135146b8035a87bae8282
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 2856a59e33773e1489d4112efe68dd04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 256
+      width: 32
+      height: 32
+    spriteID: d4da9d3291e499f41b957bd305eb98ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 50c2cee526e792b41a7b217333aa36f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 8fc713177cf125347b3d7b3502cf27f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 7dea3de2b8e36bd499f941991fb83b48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 4d15637911eb680489565dfead666156
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 32
+      height: 32
+    spriteID: d74227cb65b775a4aaf290d066b6ef71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3a71b0a4ff872f54abec58a353d985b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 8c853fffd9699904980fc96e1bc45acc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 224
+      width: 32
+      height: 32
+    spriteID: ced9a28de97752941a72ebba9f716fd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 60424a2e6d157b94795ee4913fc02348
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 32
+      height: 32
+    spriteID: fdc2ee69d842d8b41b99fb32c6876b8d
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 12}
+      - {x: -16, y: -16}
+      - {x: 12, y: -16}
+    tessellationDetail: 0
+  - name: Merged_tileset_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 25ac8d5768ca9d249bf779953401ae6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 58c6c7649bd322b4e87a274bdcd7d777
+    spriteOutline:
+    - shape:
+      - {x: -12, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 12}
+    tessellationDetail: 0
+  - name: Merged_tileset_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 32
+      height: 32
+    spriteID: ddfbce82babe3144f8393cfca4b68f80
+    spriteOutline:
+    - shape:
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+      - {x: -12, y: 16}
+      - {x: -16, y: 12}
+    tessellationDetail: 0
+  - name: Merged_tileset_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 3fb5af9499f90a043b7ccb7d071a1030
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+    tessellationDetail: 0
+  - name: Merged_tileset_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 9e5ba543fa4d4d44392a12521879cf24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 6aaf135dd87d03e4babab228e4c34529
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 32
+      height: 32
+    spriteID: bafacad3cdcaf1c48ab34514d8244e24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 32
+      height: 32
+    spriteID: e1f6db57ef1e2d5428bdb0955083d748
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 32
+      height: 32
+    spriteID: e80490a5d7ef5c6478d2533027287e8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 32
+      height: 32
+    spriteID: f25221be8daeed84ea43f1fc5f283815
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 32
+      height: 32
+    spriteID: d930e9128bf9fc84294b9a41922c172b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 7d0fa64b43a63b14f8ac010a739217e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 09f50ee370f9cac44a7894a33e71f10b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 210a118d2ddba0b4bad133bcda221652
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 968753e2b026e6648adb0dde082216e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 32
+      height: 32
+    spriteID: ba9eca878e47a6f428bbb5bf3d267054
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 32
+      height: 32
+    spriteID: db25fe5d846c69d489051b4c2adf5c89
+    spriteOutline:
+    - shape:
+      - {x: -16, y: 16}
+      - {x: -16, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: 16}
+    tessellationDetail: 0
+  - name: Merged_tileset_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 5f6671e45e13a3d489832ff71d8ea240
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 32
+      height: 32
+    spriteID: ba31279a9360eb74faab508d6a2600f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 773eee283b5ebc044ba2eb94147d9ca4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 35b8f017768d445449d754e6e54842fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 32
+      height: 32
+    spriteID: ef7b190b1246bfe4896d52c780086585
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 3c288bff7831b5940b891da855a92d75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 9db4cd61bc4f1a945a6e6b7dac4fb3e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 8c25e1a1fcd81e14ba2d8a306dbfaaf9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 92e650b20cb77c443b0a098041608a21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 803066205b19b614a857b6c06e31dedf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 9178223e5ed960a4cb423c50cde6f89d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 2fc0bc4ae6b194b4e9d7e3dff4bc9b0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 32
+      height: 32
+    spriteID: a51e3dd2a9de97c4db4347b63a047c2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 9636884f180457342b52c7be44a12e17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 32
+      height: 32
+    spriteID: a23a3c1a394da6b49a4a67dbf772fe70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 32
+      height: 32
+    spriteID: d5c189b228b995749a0d133e2cea323e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 32
+      height: 32
+    spriteID: c362169ef77a5c9449b8bd29edeb1bae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 32
+      height: 32
+    spriteID: b1e0ab254c1d7de41a6b7162c5998bfc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 9a2e8d86a789e364db01a6622a27793f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 870fe3f20f3619649ba96e32124059fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 03e1adb1583224a47b9130ea4bd9f514
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 32
+      height: 32
+    spriteID: c6922a66371b51a45b5a0d28c96749f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 2101a1f778d622b48a381d80be1feaed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 2308ead6679dcb24faf28c8d4165fb33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 171530c8a3729c04fac52d81bbcecf80
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 32
+      height: 32
+    spriteID: adc1975fa8c84114fbf7de833a7a0912
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 32
+      height: 32
+    spriteID: f64e9ba344770ec42bfcf227104354ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 974fd34ce76147f4a8c773dc8a89e085
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 025a9067567a6cd4d8668ce21ba07f6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 50c3979df1b349d4fb5940c246e1c9d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 1a6c7ddbc01bb7541a83c00cfa5aa67a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 32
+      height: 32
+    spriteID: caba3ae42973ccf4394c1b7008bff114
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 32
+      height: 32
+    spriteID: f82779280e01a704d8aede7a66b61e46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 8d030a8bc59451f42abef5db058cee57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 5bf8a8274e348584abde3c67b7a310c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 32
+      height: 32
+    spriteID: a6683026aa2f1da43867480ffc203073
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Merged_tileset_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 32
+      height: 32
+    spriteID: ca58b250eeaf4d1488729a4f71c8d37a
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {fileID: -2988177865379244337, guid: b9f7294e8d3541647a8a195fdd66b998,
+    type: 3}

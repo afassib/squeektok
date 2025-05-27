@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 1ee2dc1c49ec41d479691827766bd1f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1062003453654494785
+    second: Ratman_Bow_Death3_0
+  - first:
+      213: 3425263696468532793
+    second: Ratman_Bow_Death3_1
+  - first:
+      213: -2352869375435163160
+    second: Ratman_Bow_Death3_2
+  - first:
+      213: -5515793711870860220
+    second: Ratman_Bow_Death3_3
+  - first:
+      213: -1058306768754137086
+    second: Ratman_Bow_Death3_4
+  - first:
+      213: -1717256484904981026
+    second: Ratman_Bow_Death3_5
+  - first:
+      213: -8431199482333528572
+    second: Ratman_Bow_Death3_6
+  - first:
+      213: -2542337372848277077
+    second: Ratman_Bow_Death3_7
+  - first:
+      213: -8641444293669478913
+    second: Ratman_Bow_Death3_8
+  - first:
+      213: 8833324973266738436
+    second: Ratman_Bow_Death3_9
+  - first:
+      213: -3424041152252382238
+    second: Ratman_Bow_Death3_10
+  - first:
+      213: -4476456374311814673
+    second: Ratman_Bow_Death3_11
+  - first:
+      213: -8543370941954830377
+    second: Ratman_Bow_Death3_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e605da38efcbe00800000000000000
+      internalID: 1062003453654494785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e5c022f2bf88f20800000000000000
+      internalID: 3425263696468532793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9ba42e4cde85fd0800000000000000
+      internalID: -2352869375435163160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444aa9dc7d6f373b0800000000000000
+      internalID: -5515793711870860220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a409d9932051f0800000000000000
+      internalID: -1058306768754137086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 5
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda00d43541b28e0800000000000000
+      internalID: -1717256484904981026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e7d01cdbc5efa80800000000000000
+      internalID: -8431199482333528572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 4
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9bd2811adc7bcd0800000000000000
+      internalID: -2542337372848277077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1181033c631880800000000000000
+      internalID: -8641444293669478913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d96212346469a70800000000000000
+      internalID: 8833324973266738436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 4
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e37daf96bc5b70d0800000000000000
+      internalID: -3424041152252382238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe97c9415ae60e1c0800000000000000
+      internalID: -4476456374311814673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_Bow_Death3_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 5
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df436c9469df6980800000000000000
+      internalID: -8543370941954830377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ratman_Bow_Death3_0: 1062003453654494785
+      Ratman_Bow_Death3_1: 3425263696468532793
+      Ratman_Bow_Death3_10: -3424041152252382238
+      Ratman_Bow_Death3_11: -4476456374311814673
+      Ratman_Bow_Death3_12: -8543370941954830377
+      Ratman_Bow_Death3_2: -2352869375435163160
+      Ratman_Bow_Death3_3: -5515793711870860220
+      Ratman_Bow_Death3_4: -1058306768754137086
+      Ratman_Bow_Death3_5: -1717256484904981026
+      Ratman_Bow_Death3_6: -8431199482333528572
+      Ratman_Bow_Death3_7: -2542337372848277077
+      Ratman_Bow_Death3_8: -8641444293669478913
+      Ratman_Bow_Death3_9: 8833324973266738436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 88ad12b4363a1f249a9e28658f793947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1047748214600937288
+    second: Ratman_NonWeapon_Ladder_down_repeat_0
+  - first:
+      213: 7103500615904381500
+    second: Ratman_NonWeapon_Ladder_down_repeat_1
+  - first:
+      213: 2687158199003227269
+    second: Ratman_NonWeapon_Ladder_down_repeat_2
+  - first:
+      213: 5976564711490786383
+    second: Ratman_NonWeapon_Ladder_down_repeat_3
+  - first:
+      213: 2773807233922313396
+    second: Ratman_NonWeapon_Ladder_down_repeat_4
+  - first:
+      213: 5962127937592163352
+    second: Ratman_NonWeapon_Ladder_down_repeat_5
+  - first:
+      213: 931228063357523162
+    second: Ratman_NonWeapon_Ladder_down_repeat_6
+  - first:
+      213: 2263322918828338795
+    second: Ratman_NonWeapon_Ladder_down_repeat_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b059aecc86a571f0800000000000000
+      internalID: -1047748214600937288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 12
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3acfb89c24b49260800000000000000
+      internalID: 7103500615904381500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584add21524ba4520800000000000000
+      internalID: 2687158199003227269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441b8d90f501f250800000000000000
+      internalID: 5976564711490786383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 10
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc2955abfa8e7620800000000000000
+      internalID: 2773807233922313396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cfc9145cbbdb250800000000000000
+      internalID: 5962127937592163352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4dc416df26cec00800000000000000
+      internalID: 931228063357523162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ratman_NonWeapon_Ladder_down_repeat_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 10
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e63ccf330f86f10800000000000000
+      internalID: 2263322918828338795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ratman_NonWeapon_Ladder_down_repeat_0: -1047748214600937288
+      Ratman_NonWeapon_Ladder_down_repeat_1: 7103500615904381500
+      Ratman_NonWeapon_Ladder_down_repeat_2: 2687158199003227269
+      Ratman_NonWeapon_Ladder_down_repeat_3: 5976564711490786383
+      Ratman_NonWeapon_Ladder_down_repeat_4: 2773807233922313396
+      Ratman_NonWeapon_Ladder_down_repeat_5: 5962127937592163352
+      Ratman_NonWeapon_Ladder_down_repeat_6: 931228063357523162
+      Ratman_NonWeapon_Ladder_down_repeat_7: 2263322918828338795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
