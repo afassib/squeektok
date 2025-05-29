@@ -20,18 +20,19 @@ namespace Bardent.CoreSystem
             {
                 ParticleManager.StartParticles(particle);
             }
-        
             core.transform.parent.gameObject.SetActive(false);
+            // Death Event
+            EventManager.Instance.InvokeEvent(EventManager.GameEvent.GamePlay_PlayerDied);
         }
 
         private void OnEnable()
         {
-            Stats.Health.OnCurrentValueZero += Die;
+            EventManager.Instance.AddListener(EventManager.GameEvent.Stats_OnValueZero_PhysicalHealth, Die);
         }
 
         private void OnDisable()
         {
-            Stats.Health.OnCurrentValueZero -= Die;
+            EventManager.Instance.AddListener(EventManager.GameEvent.Stats_OnValueZero_PhysicalHealth, Die);
         }
     }
 }

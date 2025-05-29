@@ -47,8 +47,7 @@ public class Enemy1 : Entity
         meleeAttackState = new E1_MeleeAttackState(this, stateMachine, "meleeAttack", meleeAttackPosition, meleeAttackStateData, this);
         stunState = new E1_StunState(this, stateMachine, "stun", stunStateData, this);
         deadState = new E1_DeadState(this, stateMachine, "dead", deadStateData, this);
-
-        stats.Poise.OnCurrentValueZero += HandlePoiseZero;
+        EventManager.Instance.AddListener(EventManager.GameEvent.Stats_OnValueZero_Poise, HandlePoiseZero);
     }
 
     private void HandlePoiseZero()
@@ -70,7 +69,7 @@ public class Enemy1 : Entity
 
     private void OnDestroy()
     {
-        stats.Poise.OnCurrentValueZero -= HandlePoiseZero;
+        EventManager.Instance.RemoveListener(EventManager.GameEvent.Stats_OnValueZero_Poise, HandlePoiseZero);
     }
 
     public override void OnDrawGizmos()

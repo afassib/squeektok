@@ -6,8 +6,11 @@ namespace Bardent.CoreSystem.StatsSystem
     [Serializable]
     public class Stat
     {
-        public event Action OnCurrentValueZero;
-        
+
+        public EventManager.GameEvent OnValueChangeEvent;
+
+        public EventManager.GameEvent OnCurrentValueZeroEvent;
+
         [field: SerializeField] public float MaxValue { get; private set; }
 
         public float CurrentValue
@@ -16,10 +19,10 @@ namespace Bardent.CoreSystem.StatsSystem
             set
             {
                 currentValue = Mathf.Clamp(value, 0f, MaxValue);
-
+                EventManager.Instance.InvokeEvent(OnValueChangeEvent);
                 if (currentValue <= 0f)
                 {
-                    OnCurrentValueZero?.Invoke();
+                    EventManager.Instance.InvokeEvent(OnCurrentValueZeroEvent);
                 }
             }
         }
@@ -31,5 +34,12 @@ namespace Bardent.CoreSystem.StatsSystem
         public void Increase(float amount) => CurrentValue += amount;
 
         public void Decrease(float amount) => CurrentValue -= amount;
+
+        public float GetPencentage()
+        {
+            if(CurrentValue < 0f) return 0f;
+            if(CurrentValue >= MaxValue) return 1;
+            return CurrentValue / MaxValue;
+        }
     }
 }

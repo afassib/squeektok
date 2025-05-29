@@ -52,8 +52,7 @@ public class Enemy2 : Entity
         deadState = new E2_DeadState(this, stateMachine, "dead", deadStateData, this);
         dodgeState = new E2_DodgeState(this, stateMachine, "dodge", dodgeStateData, this);
         rangedAttackState = new E2_RangedAttackState(this, stateMachine, "rangedAttack", rangedAttackPosition, rangedAttackStateData, this);
-
-        stats.Poise.OnCurrentValueZero += HandlePoiseZero;
+        EventManager.Instance.AddListener(EventManager.GameEvent.Stats_OnValueZero_Poise, HandlePoiseZero);
     }
 
     private void HandlePoiseZero()
@@ -70,7 +69,7 @@ public class Enemy2 : Entity
 
     private void OnDestroy()
     {
-        stats.Poise.OnCurrentValueZero -= HandlePoiseZero;
+        EventManager.Instance.RemoveListener(EventManager.GameEvent.Stats_OnValueZero_Poise, HandlePoiseZero);
     }
 
     private void Start()

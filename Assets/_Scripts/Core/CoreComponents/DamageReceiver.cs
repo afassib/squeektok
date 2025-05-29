@@ -33,7 +33,7 @@ namespace Bardent.CoreSystem
                 return;
             }
 
-            stats.Health.Decrease(data.Amount);
+            stats.physicalHealth.Decrease(data.Amount);
             particleManager.StartWithRandomRotation(damageParticles);
         }
 

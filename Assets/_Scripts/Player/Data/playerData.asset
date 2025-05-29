@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65ca48738a7a0264884c833183f68271, type: 3}
   m_Name: playerData
   m_EditorClassIdentifier: 
-  movementVelocity: 1
+  movementVelocity: 4
   jumpVelocity: 18
   amountOfJumps: 1
   wallJumpVelocity: 20
@@ -34,7 +34,7 @@ MonoBehaviour:
   drag: 10
   dashEndYMultiplier: 0.2
   distBetweenAfterImages: 0.5
-  crouchMovementVelocity: 0.7
+  crouchMovementVelocity: 2
   crouchColliderHeight: 0.55
   standColliderHeight: 0.8
   stunTime: 1

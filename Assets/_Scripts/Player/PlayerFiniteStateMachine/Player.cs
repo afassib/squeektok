@@ -118,8 +118,8 @@ public class Player : MonoBehaviour
         DashDirectionIndicator = transform.Find("DashDirectionIndicator");
         MovementCollider = GetComponent<BoxCollider2D>();
 
-        Stats.Poise.OnCurrentValueZero += HandlePoiseCurrentValueZero;
-        
+        EventManager.Instance.AddListener(EventManager.GameEvent.Stats_OnValueZero_Poise, HandlePoiseCurrentValueZero);
+
         StateMachine.Initialize(IdleState);
     }
 
@@ -141,7 +141,7 @@ public class Player : MonoBehaviour
 
     private void OnDestroy()
     {
-        Stats.Poise.OnCurrentValueZero -= HandlePoiseCurrentValueZero;
+        EventManager.Instance.RemoveListener(EventManager.GameEvent.Stats_OnValueZero_Poise, HandlePoiseCurrentValueZero);
         instance = null;
     }
 

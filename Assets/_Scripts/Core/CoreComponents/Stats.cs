@@ -6,16 +6,21 @@ namespace Bardent.CoreSystem
 {
     public class Stats : CoreComponent
     {
-       [field: SerializeField] public Stat Health { get; private set; }
-       [field: SerializeField] public Stat Poise { get; private set; }
+        [field: SerializeField] public Stat physicalHealth { get; private set; }
+        [field: SerializeField] public Stat mentalHealth { get; private set; }
+        [field: SerializeField] public Stat Poise { get; private set; }
 
        [SerializeField] private float poiseRecoveryRate;
         
         protected override void Awake()
         {
             base.Awake();
-            
-            Health.Init();
+        }
+
+        private void Start()
+        {
+            physicalHealth.Init();
+            mentalHealth.Init();
             Poise.Init();
         }
 

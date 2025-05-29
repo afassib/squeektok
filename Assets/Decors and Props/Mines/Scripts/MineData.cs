@@ -1,4 +1,3 @@
-using UnityEditor.Animations;
 using UnityEngine;
 
 namespace Bardent
@@ -6,8 +5,8 @@ namespace Bardent
     [CreateAssetMenu(fileName ="DefaultMineData", menuName = "Mine/New Mine Data")]
     public class MineData : ScriptableObject
     {
-        public AnimatorController mineAnimatorController;
-        public AnimatorController bombAnimatorController;
+        public RuntimeAnimatorController mineAnimatorController;
+        public RuntimeAnimatorController bombAnimatorController;
         public float activationTime;
         public string parameterKillName; // parameter name to increase if killed by this mine; if empty ignore it
         public float damage;
