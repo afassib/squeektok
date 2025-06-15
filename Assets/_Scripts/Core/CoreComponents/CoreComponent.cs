@@ -16,5 +16,9 @@ namespace Bardent.CoreSystem
 
         public virtual void LogicUpdate() { }
 
+        public virtual void LogicStart() { }
+
+        public virtual void LogicAwake() { }
+
     }
 }

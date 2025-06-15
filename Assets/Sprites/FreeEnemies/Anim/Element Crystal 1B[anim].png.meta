@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 8fae5cfe5ec64064ba22eba8e233b6a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6872575238187653290
+    second: Element Crystal 1B[anim]_0
+  - first:
+      213: -540352462658102999
+    second: Element Crystal 1B[anim]_1
+  - first:
+      213: 6908649476768453850
+    second: Element Crystal 1B[anim]_2
+  - first:
+      213: -8724161285489494070
+    second: Element Crystal 1B[anim]_3
+  - first:
+      213: 368662110431054702
+    second: Element Crystal 1B[anim]_4
+  - first:
+      213: -3409114858238476523
+    second: Element Crystal 1B[anim]_5
+  - first:
+      213: 1173289158650284460
+    second: Element Crystal 1B[anim]_6
+  - first:
+      213: 5648002095042483612
+    second: Element Crystal 1B[anim]_7
+  - first:
+      213: 1208074112898446875
+    second: Element Crystal 1B[anim]_8
+  - first:
+      213: -4303041261728287174
+    second: Element Crystal 1B[anim]_9
+  - first:
+      213: 3155112066263620233
+    second: Element Crystal 1B[anim]_10
+  - first:
+      213: -8757966576968538282
+    second: Element Crystal 1B[anim]_11
+  - first:
+      213: -5756129892796593969
+    second: Element Crystal 1B[anim]_12
+  - first:
+      213: 7239183790055218663
+    second: Element Crystal 1B[anim]_13
+  - first:
+      213: -5532235119626361308
+    second: Element Crystal 1B[anim]_14
+  - first:
+      213: 226572903911226211
+    second: Element Crystal 1B[anim]_15
+  - first:
+      213: 3197578771969593527
+    second: Element Crystal 1B[anim]_16
+  - first:
+      213: -6413922382879442256
+    second: Element Crystal 1B[anim]_17
+  - first:
+      213: 418507605933745839
+    second: Element Crystal 1B[anim]_18
+  - first:
+      213: 588617077941713186
+    second: Element Crystal 1B[anim]_19
+  - first:
+      213: -4813418306954283677
+    second: Element Crystal 1B[anim]_20
+  - first:
+      213: 4758757078663084514
+    second: Element Crystal 1B[anim]_21
+  - first:
+      213: 5312461848290178486
+    second: Element Crystal 1B[anim]_22
+  - first:
+      213: 7430765487970313142
+    second: Element Crystal 1B[anim]_23
+  - first:
+      213: -1743138014299833083
+    second: Element Crystal 1B[anim]_24
+  - first:
+      213: -3706476731016519854
+    second: Element Crystal 1B[anim]_25
+  - first:
+      213: -7852711979441656238
+    second: Element Crystal 1B[anim]_26
+  - first:
+      213: 1641251439348276410
+    second: Element Crystal 1B[anim]_27
+  - first:
+      213: -1985433455992448509
+    second: Element Crystal 1B[anim]_28
+  - first:
+      213: 3092137316767819132
+    second: Element Crystal 1B[anim]_29
+  - first:
+      213: 573334566359019774
+    second: Element Crystal 1B[anim]_30
+  - first:
+      213: 6522903601257824588
+    second: Element Crystal 1B[anim]_31
+  - first:
+      213: -537815394389679434
+    second: Element Crystal 1B[anim]_32
+  - first:
+      213: -811744887582143508
+    second: Element Crystal 1B[anim]_33
+  - first:
+      213: -5130349752904497921
+    second: Element Crystal 1B[anim]_34
+  - first:
+      213: 6407014543123134147
+    second: Element Crystal 1B[anim]_35
+  - first:
+      213: -2074528223719542771
+    second: Element Crystal 1B[anim]_36
+  - first:
+      213: 3389312411779312598
+    second: Element Crystal 1B[anim]_37
+  - first:
+      213: 1066650924115484833
+    second: Element Crystal 1B[anim]_38
+  - first:
+      213: -1240866487400302584
+    second: Element Crystal 1B[anim]_39
+  - first:
+      213: -2669183367541806178
+    second: Element Crystal 1B[anim]_40
+  - first:
+      213: 8521284579291486664
+    second: Element Crystal 1B[anim]_41
+  - first:
+      213: -2610084417169899423
+    second: Element Crystal 1B[anim]_42
+  - first:
+      213: -3917578122115925180
+    second: Element Crystal 1B[anim]_43
+  - first:
+      213: 3315190633730481443
+    second: Element Crystal 1B[anim]_44
+  - first:
+      213: 4110854193010645439
+    second: Element Crystal 1B[anim]_45
+  - first:
+      213: -9133534100557914116
+    second: Element Crystal 1B[anim]_46
+  - first:
+      213: 3688056101623919621
+    second: Element Crystal 1B[anim]_47
+  - first:
+      213: 973989030620032517
+    second: Element Crystal 1B[anim]_48
+  - first:
+      213: -8666330161413685587
+    second: Element Crystal 1B[anim]_49
+  - first:
+      213: -5627643716294526746
+    second: Element Crystal 1B[anim]_50
+  - first:
+      213: 5883995152254792480
+    second: Element Crystal 1B[anim]_51
+  - first:
+      213: 7396152108092897627
+    second: Element Crystal 1B[anim]_52
+  - first:
+      213: 3375835760594590663
+    second: Element Crystal 1B[anim]_53
+  - first:
+      213: -4746122634635771384
+    second: Element Crystal 1B[anim]_54
+  - first:
+      213: 7332566514216209041
+    second: Element Crystal 1B[anim]_55
+  - first:
+      213: -2647107670040861862
+    second: Element Crystal 1B[anim]_56
+  - first:
+      213: -3497415144585152857
+    second: Element Crystal 1B[anim]_57
+  - first:
+      213: -4434525598353855021
+    second: Element Crystal 1B[anim]_58
+  - first:
+      213: 8531613593983847536
+    second: Element Crystal 1B[anim]_59
+  - first:
+      213: -7028437318267582691
+    second: Element Crystal 1B[anim]_60
+  - first:
+      213: -1299370207635516604
+    second: Element Crystal 1B[anim]_61
+  - first:
+      213: 8959123836183267576
+    second: Element Crystal 1B[anim]_62
+  - first:
+      213: 6469406091178287299
+    second: Element Crystal 1B[anim]_63
+  - first:
+      213: 5363503733958689794
+    second: Element Crystal 1B[anim]_64
+  - first:
+      213: -9095904721591439084
+    second: Element Crystal 1B[anim]_65
+  - first:
+      213: 4332143949536058477
+    second: Element Crystal 1B[anim]_66
+  - first:
+      213: 7003913335146733499
+    second: Element Crystal 1B[anim]_67
+  - first:
+      213: -6993152463629649818
+    second: Element Crystal 1B[anim]_68
+  - first:
+      213: -2977489027378277525
+    second: Element Crystal 1B[anim]_69
+  - first:
+      213: 2218904699622943336
+    second: Element Crystal 1B[anim]_70
+  - first:
+      213: 7083478289585775687
+    second: Element Crystal 1B[anim]_71
+  - first:
+      213: 1809650157249902880
+    second: Element Crystal 1B[anim]_72
+  - first:
+      213: 203820408301324613
+    second: Element Crystal 1B[anim]_73
+  - first:
+      213: 9189358915781259429
+    second: Element Crystal 1B[anim]_74
+  - first:
+      213: -4716508876208197159
+    second: Element Crystal 1B[anim]_75
+  - first:
+      213: 4805974343332164654
+    second: Element Crystal 1B[anim]_76
+  - first:
+      213: 4036197967556045789
+    second: Element Crystal 1B[anim]_77
+  - first:
+      213: 9047109889454419924
+    second: Element Crystal 1B[anim]_78
+  - first:
+      213: 2106949244780821834
+    second: Element Crystal 1B[anim]_79
+  - first:
+      213: -5710603261254439621
+    second: Element Crystal 1B[anim]_80
+  - first:
+      213: -4912292696863246686
+    second: Element Crystal 1B[anim]_81
+  - first:
+      213: -3185561945076488092
+    second: Element Crystal 1B[anim]_82
+  - first:
+      213: 7011309301675346677
+    second: Element Crystal 1B[anim]_83
+  - first:
+      213: 28177007699528431
+    second: Element Crystal 1B[anim]_84
+  - first:
+      213: 6846883695556798896
+    second: Element Crystal 1B[anim]_85
+  - first:
+      213: 8091333322954823151
+    second: Element Crystal 1B[anim]_86
+  - first:
+      213: 3777534270520688868
+    second: Element Crystal 1B[anim]_87
+  - first:
+      213: -9041872800410112307
+    second: Element Crystal 1B[anim]_88
+  - first:
+      213: -7535127215795911594
+    second: Element Crystal 1B[anim]_89
+  - first:
+      213: -8188934948059705039
+    second: Element Crystal 1B[anim]_90
+  - first:
+      213: 3495798318393964195
+    second: Element Crystal 1B[anim]_91
+  - first:
+      213: -4552123874654880439
+    second: Element Crystal 1B[anim]_92
+  - first:
+      213: 9095038595794371542
+    second: Element Crystal 1B[anim]_93
+  - first:
+      213: 8447370491362167579
+    second: Element Crystal 1B[anim]_94
+  - first:
+      213: 7455681156196669788
+    second: Element Crystal 1B[anim]_95
+  - first:
+      213: -4675392238363314149
+    second: Element Crystal 1B[anim]_96
+  - first:
+      213: 8463021804719591858
+    second: Element Crystal 1B[anim]_97
+  - first:
+      213: -4743290571302620896
+    second: Element Crystal 1B[anim]_98
+  - first:
+      213: -2010834881536434091
+    second: Element Crystal 1B[anim]_99
+  - first:
+      213: -8747925967980142120
+    second: Element Crystal 1B[anim]_100
+  - first:
+      213: 5503380777288881681
+    second: Element Crystal 1B[anim]_101
+  - first:
+      213: -9163006537111353829
+    second: Element Crystal 1B[anim]_102
+  - first:
+      213: -4900949864082780437
+    second: Element Crystal 1B[anim]_103
+  - first:
+      213: -2508656790085992958
+    second: Element Crystal 1B[anim]_104
+  - first:
+      213: -1892428450769180755
+    second: Element Crystal 1B[anim]_105
+  - first:
+      213: 3973133971525490807
+    second: Element Crystal 1B[anim]_106
+  - first:
+      213: -6745504816445439900
+    second: Element Crystal 1B[anim]_107
+  - first:
+      213: -4495603336659546871
+    second: Element Crystal 1B[anim]_108
+  - first:
+      213: -7626108160404590202
+    second: Element Crystal 1B[anim]_109
+  - first:
+      213: -2040050353698654924
+    second: Element Crystal 1B[anim]_110
+  - first:
+      213: -1403508765261782788
+    second: Element Crystal 1B[anim]_111
+  - first:
+      213: -4395153160366123944
+    second: Element Crystal 1B[anim]_112
+  - first:
+      213: -4485493647247459865
+    second: Element Crystal 1B[anim]_113
+  - first:
+      213: 2712849665554206584
+    second: Element Crystal 1B[anim]_114
+  - first:
+      213: -6320756798592566343
+    second: Element Crystal 1B[anim]_115
+  - first:
+      213: 1203915040677924994
+    second: Element Crystal 1B[anim]_116
+  - first:
+      213: -3945456892582157975
+    second: Element Crystal 1B[anim]_117
+  - first:
+      213: -9095199385805370605
+    second: Element Crystal 1B[anim]_118
+  - first:
+      213: 2147673493483594901
+    second: Element Crystal 1B[anim]_119
+  - first:
+      213: -2362381770709016922
+    second: Element Crystal 1B[anim]_120
+  - first:
+      213: 8103308659365985219
+    second: Element Crystal 1B[anim]_121
+  - first:
+      213: -5783452123544171464
+    second: Element Crystal 1B[anim]_122
+  - first:
+      213: -2227039535515051782
+    second: Element Crystal 1B[anim]_123
+  - first:
+      213: 3691617811384401951
+    second: Element Crystal 1B[anim]_124
+  - first:
+      213: 8081556772724165926
+    second: Element Crystal 1B[anim]_125
+  - first:
+      213: -3517385485449935478
+    second: Element Crystal 1B[anim]_126
+  - first:
+      213: -4702041844041616819
+    second: Element Crystal 1B[anim]_127
+  - first:
+      213: -1480475219389155103
+    second: Element Crystal 1B[anim]_128
+  - first:
+      213: 2939047919386069940
+    second: Element Crystal 1B[anim]_129
+  - first:
+      213: -1097249582215175259
+    second: Element Crystal 1B[anim]_130
+  - first:
+      213: -1290053695828628465
+    second: Element Crystal 1B[anim]_131
+  - first:
+      213: -7738671506488903270
+    second: Element Crystal 1B[anim]_132
+  - first:
+      213: 4383469233762252770
+    second: Element Crystal 1B[anim]_133
+  - first:
+      213: -6818749080962501865
+    second: Element Crystal 1B[anim]_134
+  - first:
+      213: -683279549575768814
+    second: Element Crystal 1B[anim]_135
+  - first:
+      213: -1560706918417081602
+    second: Element Crystal 1B[anim]_136
+  - first:
+      213: -972320053349788304
+    second: Element Crystal 1B[anim]_137
+  - first:
+      213: -7707084068220293572
+    second: Element Crystal 1B[anim]_138
+  - first:
+      213: 7580972279863126448
+    second: Element Crystal 1B[anim]_139
+  - first:
+      213: -2445384457266870062
+    second: Element Crystal 1B[anim]_140
+  - first:
+      213: -7270574492963526339
+    second: Element Crystal 1B[anim]_141
+  - first:
+      213: -293327577587589032
+    second: Element Crystal 1B[anim]_142
+  - first:
+      213: -4671388486731318185
+    second: Element Crystal 1B[anim]_143
+  - first:
+      213: -847989930179796029
+    second: Element Crystal 1B[anim]_144
+  - first:
+      213: -3874878912875885719
+    second: Element Crystal 1B[anim]_145
+  - first:
+      213: 4441310470270003576
+    second: Element Crystal 1B[anim]_146
+  - first:
+      213: -3840595063200907110
+    second: Element Crystal 1B[anim]_147
+  - first:
+      213: -5642531981348888380
+    second: Element Crystal 1B[anim]_148
+  - first:
+      213: -2900374105000569083
+    second: Element Crystal 1B[anim]_149
+  - first:
+      213: 9212778928612210581
+    second: Element Crystal 1B[anim]_150
+  - first:
+      213: 7041506445282829540
+    second: Element Crystal 1B[anim]_151
+  - first:
+      213: 3031081023523218990
+    second: Element Crystal 1B[anim]_152
+  - first:
+      213: -5104465713735592718
+    second: Element Crystal 1B[anim]_153
+  - first:
+      213: 1210894151434416944
+    second: Element Crystal 1B[anim]_154
+  - first:
+      213: -6819531695655024273
+    second: Element Crystal 1B[anim]_155
+  - first:
+      213: 2623066623807183255
+    second: Element Crystal 1B[anim]_156
+  - first:
+      213: -2715568967439441798
+    second: Element Crystal 1B[anim]_157
+  - first:
+      213: 4067180373606134525
+    second: Element Crystal 1B[anim]_158
+  - first:
+      213: 2910698000995046529
+    second: Element Crystal 1B[anim]_159
+  - first:
+      213: 7323675077419131110
+    second: Element Crystal 1B[anim]_160
+  - first:
+      213: -6457605280236768505
+    second: Element Crystal 1B[anim]_161
+  - first:
+      213: 6852046896963856571
+    second: Element Crystal 1B[anim]_162
+  - first:
+      213: -7106032288788202082
+    second: Element Crystal 1B[anim]_163
+  - first:
+      213: 1492227608183214875
+    second: Element Crystal 1B[anim]_164
+  - first:
+      213: 7071006406268693471
+    second: Element Crystal 1B[anim]_165
+  - first:
+      213: -6729947077946445062
+    second: Element Crystal 1B[anim]_166
+  - first:
+      213: -6415753133629623829
+    second: Element Crystal 1B[anim]_167
+  - first:
+      213: 3151062742584278083
+    second: Element Crystal 1B[anim]_168
+  - first:
+      213: 8628531948018680373
+    second: Element Crystal 1B[anim]_169
+  - first:
+      213: 2908539545409112038
+    second: Element Crystal 1B[anim]_170
+  - first:
+      213: -8310995770965363392
+    second: Element Crystal 1B[anim]_171
+  - first:
+      213: -7764707648262602494
+    second: Element Crystal 1B[anim]_172
+  - first:
+      213: -5837273762808943152
+    second: Element Crystal 1B[anim]_173
+  - first:
+      213: 8227043478071319585
+    second: Element Crystal 1B[anim]_174
+  - first:
+      213: 283408641465164115
+    second: Element Crystal 1B[anim]_175
+  - first:
+      213: 6126334014511792752
+    second: Element Crystal 1B[anim]_176
+  - first:
+      213: -6890250309996033254
+    second: Element Crystal 1B[anim]_177
+  - first:
+      213: 4454999903637372744
+    second: Element Crystal 1B[anim]_178
+  - first:
+      213: 4111973211486056229
+    second: Element Crystal 1B[anim]_179
+  - first:
+      213: 1689343815459908884
+    second: Element Crystal 1B[anim]_180
+  - first:
+      213: -5854097316357540555
+    second: Element Crystal 1B[anim]_181
+  - first:
+      213: -3178668808179650113
+    second: Element Crystal 1B[anim]_182
+  - first:
+      213: -4828964197746352641
+    second: Element Crystal 1B[anim]_183
+  - first:
+      213: 3438307119614410832
+    second: Element Crystal 1B[anim]_184
+  - first:
+      213: 8935705403550848547
+    second: Element Crystal 1B[anim]_185
+  - first:
+      213: 2533695004141842821
+    second: Element Crystal 1B[anim]_186
+  - first:
+      213: -2948503650060653606
+    second: Element Crystal 1B[anim]_187
+  - first:
+      213: 4820356998523078047
+    second: Element Crystal 1B[anim]_188
+  - first:
+      213: 4976722901490542541
+    second: Element Crystal 1B[anim]_189
+  - first:
+      213: 591755755321089492
+    second: Element Crystal 1B[anim]_190
+  - first:
+      213: -5051795412756016336
+    second: Element Crystal 1B[anim]_191
+  - first:
+      213: 6046883725926487767
+    second: Element Crystal 1B[anim]_192
+  - first:
+      213: 7851390096101189580
+    second: Element Crystal 1B[anim]_193
+  - first:
+      213: 6552212691042655982
+    second: Element Crystal 1B[anim]_194
+  - first:
+      213: -8425387302072678761
+    second: Element Crystal 1B[anim]_195
+  - first:
+      213: 191113183822837861
+    second: Element Crystal 1B[anim]_196
+  - first:
+      213: 8978277018646662172
+    second: Element Crystal 1B[anim]_197
+  - first:
+      213: 8645784018158146108
+    second: Element Crystal 1B[anim]_198
+  - first:
+      213: 8098898017025563247
+    second: Element Crystal 1B[anim]_199
+  - first:
+      213: 8413367426135682228
+    second: Element Crystal 1B[anim]_200
+  - first:
+      213: 208237350486924059
+    second: Element Crystal 1B[anim]_201
+  - first:
+      213: -607988087953195484
+    second: Element Crystal 1B[anim]_202
+  - first:
+      213: -3381278311474664608
+    second: Element Crystal 1B[anim]_203
+  - first:
+      213: -1004891448970297139
+    second: Element Crystal 1B[anim]_204
+  - first:
+      213: -8882049069690965518
+    second: Element Crystal 1B[anim]_205
+  - first:
+      213: -7536298143074766487
+    second: Element Crystal 1B[anim]_206
+  - first:
+      213: -5496236160849061402
+    second: Element Crystal 1B[anim]_207
+  - first:
+      213: 8980508956809670578
+    second: Element Crystal 1B[anim]_208
+  - first:
+      213: 4983509856326051847
+    second: Element Crystal 1B[anim]_209
+  - first:
+      213: 1581340018473965211
+    second: Element Crystal 1B[anim]_210
+  - first:
+      213: -7376565500950407284
+    second: Element Crystal 1B[anim]_211
+  - first:
+      213: -2268671214678759489
+    second: Element Crystal 1B[anim]_212
+  - first:
+      213: 63953020813568742
+    second: Element Crystal 1B[anim]_213
+  - first:
+      213: 4951559708958832711
+    second: Element Crystal 1B[anim]_214
+  - first:
+      213: -876852359570574978
+    second: Element Crystal 1B[anim]_215
+  - first:
+      213: 7449316812674058037
+    second: Element Crystal 1B[anim]_216
+  - first:
+      213: 7384771618123721709
+    second: Element Crystal 1B[anim]_217
+  - first:
+      213: 7364260773156315035
+    second: Element Crystal 1B[anim]_218
+  - first:
+      213: -1748243719326816759
+    second: Element Crystal 1B[anim]_219
+  - first:
+      213: -8526866606969723009
+    second: Element Crystal 1B[anim]_220
+  - first:
+      213: -2140746361563065353
+    second: Element Crystal 1B[anim]_221
+  - first:
+      213: -3325519394998271702
+    second: Element Crystal 1B[anim]_222
+  - first:
+      213: 6583544449801406916
+    second: Element Crystal 1B[anim]_223
+  - first:
+      213: -180840277722340937
+    second: Element Crystal 1B[anim]_224
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8125444ca406f50800000000000000
+      internalID: 6872575238187653290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92991c15c484088f0800000000000000
+      internalID: -540352462658102999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4d874781470ef50800000000000000
+      internalID: 6908649476768453850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2080
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7fe2f888d8de680800000000000000
+      internalID: -8724161285489494070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b83667c30cd1500800000000000000
+      internalID: 368662110431054702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7034491460b0d0800000000000000
+      internalID: -3409114858238476523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ca20064c584010800000000000000
+      internalID: 1173289158650284460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955ba52bfbb16e40800000000000000
+      internalID: 5648002095042483612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1638a94101f3c010800000000000000
+      internalID: 1208074112898446875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3636dc55c68844c0800000000000000
+      internalID: -4303041261728287174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a113035b539cb20800000000000000
+      internalID: 3155112066263620233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657eb09ccc3757680800000000000000
+      internalID: -8757966576968538282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc80ada1c5e1e10b0800000000000000
+      internalID: -5756129892796593969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd10e5d4fb67460800000000000000
+      internalID: 7239183790055218663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426eab0487d8933b0800000000000000
+      internalID: -5532235119626361308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7b5d0bd2f42300800000000000000
+      internalID: 226572903911226211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0d39c93f4106c20800000000000000
+      internalID: 3197578771969593527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba3b8f339b2df6a0800000000000000
+      internalID: -6413922382879442256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ea734376dec500800000000000000
+      internalID: 418507605933745839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229b17f1d103b2800800000000000000
+      internalID: 588617077941713186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b0aa6d8d433db0800000000000000
+      internalID: -4813418306954283677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9b61e99508a0240800000000000000
+      internalID: 4758757078663084514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5b62687e7a9b940800000000000000
+      internalID: 5312461848290178486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e3b767d16f1760800000000000000
+      internalID: 7430765487970313142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbd2726312fc7e0800000000000000
+      internalID: -1743138014299833083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f52870d03ff8cc0800000000000000
+      internalID: -3706476731016519854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eece56f00950390800000000000000
+      internalID: -7852711979441656238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd3750d75e6c610800000000000000
+      internalID: 1641251439348276410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad4628ac25274e0800000000000000
+      internalID: -1985433455992448509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ecaab18a79ea20800000000000000
+      internalID: 3092137316767819132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0384d10c4e4f700800000000000000
+      internalID: 573334566359019774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41c619f342068a50800000000000000
+      internalID: 6522903601257824588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2aaae8fbb4988f0800000000000000
+      internalID: -537815394389679434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb4d67535a1cb4f0800000000000000
+      internalID: -811744887582143508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff44d9cd4165dc8b0800000000000000
+      internalID: -5130349752904497921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6bd99f7c94ae850800000000000000
+      internalID: 6407014543123134147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00bca4629bc533e0800000000000000
+      internalID: -2074528223719542771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbade06ea1490f20800000000000000
+      internalID: 3389312411779312598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ee373d518dce00800000000000000
+      internalID: 1066650924115484833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80871dc018e87cee0800000000000000
+      internalID: -1240866487400302584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b2a418ed725fad0800000000000000
+      internalID: -2669183367541806178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9deaa5d2fa14670800000000000000
+      internalID: 8521284579291486664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604ec82d0e17cbd0800000000000000
+      internalID: -2610084417169899423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b30734477f1a9c0800000000000000
+      internalID: -3917578122115925180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d1536115ce10e20800000000000000
+      internalID: 3315190633730481443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb913d9bb10bc0930800000000000000
+      internalID: 4110854193010645439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1458802b2f3180800000000000000
+      internalID: -9133534100557914116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5047109fb7b9e2330800000000000000
+      internalID: 3688056101623919621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eeb39ecdd448d00800000000000000
+      internalID: 973989030620032517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefea662a20bb780800000000000000
+      internalID: -8666330161413685587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e83ec74bd796e1b0800000000000000
+      internalID: -5627643716294526746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023744e8a6628a150800000000000000
+      internalID: 5883995152254792480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5932a3e72964a660800000000000000
+      internalID: 7396152108092897627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1d420db069de20800000000000000
+      internalID: 3375835760594590663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802081e1c92622eb0800000000000000
+      internalID: -4746122634635771384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element Crystal 1B[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a08c3256282c560800000000000000
+      internalID: 7332566514216209041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36eec822471625c4f9115313cb6ea394
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Element Crystal 1B[anim]_0: 6872575238187653290
+      Element Crystal 1B[anim]_1: -540352462658102999
+      Element Crystal 1B[anim]_10: 3155112066263620233
+      Element Crystal 1B[anim]_11: -8757966576968538282
+      Element Crystal 1B[anim]_12: -5756129892796593969
+      Element Crystal 1B[anim]_13: 7239183790055218663
+      Element Crystal 1B[anim]_14: -5532235119626361308
+      Element Crystal 1B[anim]_15: 226572903911226211
+      Element Crystal 1B[anim]_16: 3197578771969593527
+      Element Crystal 1B[anim]_17: -6413922382879442256
+      Element Crystal 1B[anim]_18: 418507605933745839
+      Element Crystal 1B[anim]_19: 588617077941713186
+      Element Crystal 1B[anim]_2: 6908649476768453850
+      Element Crystal 1B[anim]_20: -4813418306954283677
+      Element Crystal 1B[anim]_21: 4758757078663084514
+      Element Crystal 1B[anim]_22: 5312461848290178486
+      Element Crystal 1B[anim]_23: 7430765487970313142
+      Element Crystal 1B[anim]_24: -1743138014299833083
+      Element Crystal 1B[anim]_25: -3706476731016519854
+      Element Crystal 1B[anim]_26: -7852711979441656238
+      Element Crystal 1B[anim]_27: 1641251439348276410
+      Element Crystal 1B[anim]_28: -1985433455992448509
+      Element Crystal 1B[anim]_29: 3092137316767819132
+      Element Crystal 1B[anim]_3: -8724161285489494070
+      Element Crystal 1B[anim]_30: 573334566359019774
+      Element Crystal 1B[anim]_31: 6522903601257824588
+      Element Crystal 1B[anim]_32: -537815394389679434
+      Element Crystal 1B[anim]_33: -811744887582143508
+      Element Crystal 1B[anim]_34: -5130349752904497921
+      Element Crystal 1B[anim]_35: 6407014543123134147
+      Element Crystal 1B[anim]_36: -2074528223719542771
+      Element Crystal 1B[anim]_37: 3389312411779312598
+      Element Crystal 1B[anim]_38: 1066650924115484833
+      Element Crystal 1B[anim]_39: -1240866487400302584
+      Element Crystal 1B[anim]_4: 368662110431054702
+      Element Crystal 1B[anim]_40: -2669183367541806178
+      Element Crystal 1B[anim]_41: 8521284579291486664
+      Element Crystal 1B[anim]_42: -2610084417169899423
+      Element Crystal 1B[anim]_43: -3917578122115925180
+      Element Crystal 1B[anim]_44: 3315190633730481443
+      Element Crystal 1B[anim]_45: 4110854193010645439
+      Element Crystal 1B[anim]_46: -9133534100557914116
+      Element Crystal 1B[anim]_47: 3688056101623919621
+      Element Crystal 1B[anim]_48: 973989030620032517
+      Element Crystal 1B[anim]_49: -8666330161413685587
+      Element Crystal 1B[anim]_5: -3409114858238476523
+      Element Crystal 1B[anim]_50: -5627643716294526746
+      Element Crystal 1B[anim]_51: 5883995152254792480
+      Element Crystal 1B[anim]_52: 7396152108092897627
+      Element Crystal 1B[anim]_53: 3375835760594590663
+      Element Crystal 1B[anim]_54: -4746122634635771384
+      Element Crystal 1B[anim]_55: 7332566514216209041
+      Element Crystal 1B[anim]_6: 1173289158650284460
+      Element Crystal 1B[anim]_7: 5648002095042483612
+      Element Crystal 1B[anim]_8: 1208074112898446875
+      Element Crystal 1B[anim]_9: -4303041261728287174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

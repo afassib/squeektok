@@ -1,7 +1,5 @@
-using Bardent.Interaction;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.Purchasing;
 
 namespace Bardent.Interaction.Interactables
 {
